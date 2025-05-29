@@ -1,5 +1,10 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GlobalDWS - EA"
+    name="GlobalDWS - Enterprise Architecture"
     id="id-27dd0b5039074c91b5c2d7da14745c47"
-    version="5.0.0"/>
+    purpose="The purpose of this Enterprise Architecture (EA) model is to provide a comprehensive and structured representation of the organization’s current and target architecture across business, application, data, and technology layers. This model supports strategic decision-making, ensures alignment between IT and business goals, enables effective impact analysis, and guides the design and governance of digital transformation initiatives. It serves as a living blueprint for managing complexity, promoting reusability, and enabling collaboration across stakeholders in business, IT, and operations."
+    version="5.0.0">
+  <properties
+      key="Version"
+      value="0.0.1"/>
+</archimate:ArchimateModel>
