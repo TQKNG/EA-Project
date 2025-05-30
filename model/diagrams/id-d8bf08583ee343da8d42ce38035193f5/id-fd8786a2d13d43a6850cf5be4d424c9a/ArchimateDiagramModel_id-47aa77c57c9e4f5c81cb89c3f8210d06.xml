@@ -1,0 +1,29 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EA-Sales-Organization Tree View"
+    id="id-47aa77c57c9e4f5c81cb89c3f8210d06">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-093923ce536b4da399f9eefe5f357567"
+      textAlignment="1"
+      imagePath="images/_kS--gD1iEfCkCvNQpxcFIA.png">
+    <bounds
+        x="96"
+        y="192"
+        width="612"
+        height="529"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-0d081329042b4e0d919b386a423b7329">
+    <bounds
+        x="96"
+        y="120"
+        width="133"
+        height="37"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-2a438e46ff6b4fbfb4d8e6ab2f091736.xml#id-2a438e46ff6b4fbfb4d8e6ab2f091736"/>
+  </children>
+</archimate:ArchimateDiagramModel>
