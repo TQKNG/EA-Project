@@ -268,7 +268,20 @@
           x="240"
           y="432"
           width="169"
-          height="55"/>
+          height="97"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-f8bf337318b84f13a951ee5a183e2fd4"
+          fillColor="#ffff00">
+        <bounds
+            x="24"
+            y="36"
+            width="120"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-47aa77c57c9e4f5c81cb89c3f8210d06.xml#id-47aa77c57c9e4f5c81cb89c3f8210d06"/>
+      </children>
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-75fc8d636fc6421b8aad69c82187395d.xml#id-75fc8d636fc6421b8aad69c82187395d"/>
