@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SP - Authentication And Access Control"
+    id="id-5cd71848c8f74ad0ad96825cfeeb61a4"
+    viewpoint="service_realization">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e8ab6417e9104a67b760b973b534782d"
+      textAlignment="1">
+    <bounds
+        x="96"
+        y="60"
+        width="865"
+        height="224"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-d4bdcd4dff314277ae4f01a6dc6ebfff.xml#id-d4bdcd4dff314277ae4f01a6dc6ebfff"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-77968a32c1864a3a83d4aaea755d1127"
+      textAlignment="1">
+    <bounds
+        x="96"
+        y="283"
+        width="865"
+        height="246"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-a21a20ccbb4944c8b4f2876bb5397fea.xml#id-a21a20ccbb4944c8b4f2876bb5397fea"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7a7982bdca064affa6baa063856042bc"
+      textAlignment="1">
+    <bounds
+        x="96"
+        y="528"
+        width="865"
+        height="229"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-cbe620b824ea4afea2c056f8c8ed31e7.xml#id-cbe620b824ea4afea2c056f8c8ed31e7"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EA - Application Behavior View"
+    name="AB - Application Behavior View"
     id="id-784d0b43865140eaa8444fcbfe8b1a99">
   <children
       xsi:type="archimate:DiagramModelReference"
