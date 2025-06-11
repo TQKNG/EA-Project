@@ -1,24 +1,24 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="General Layout View"
-    id="id-68b181fab94d422db46f3b245f447b59">
+    name="LW-Sub-Authentication and Access Control View"
+    id="id-225679f898ea4da387c8819c829f27d8">
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-d8c682fe69e34dd9a16eb32f370b9063"
+      id="id-c91edd6f6069445f94f29db3f2b32e6a"
       font="1|Roboto Medium|18.0|0|WINDOWS|1|-24|0|0|0|500|0|0|0|0|3|2|1|2|Roboto Medium"
       content="GlobalDWS Enterprise Architecture"
       textPosition="1"
       borderType="2">
     <bounds
-        x="324"
-        y="36"
+        x="705"
+        y="291"
         width="493"
         height="109"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-682cc7ba0d6d4ab1b75e0a5844816eb8"
+      id="id-3e8e462a88494bce8e5b903f77da522d"
       font="1|Roboto|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|2|Roboto"
       textPosition="1"
       borderType="2">
@@ -26,8 +26,8 @@
         name="labelExpression"
         value="Version: ${property:Version}&#xD;&#xA;Prepared By: ${property:Prepared By}"/>
     <bounds
-        x="420"
-        y="108"
+        x="801"
+        y="363"
         width="301"
         height="61"/>
     <properties
@@ -39,100 +39,56 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4763dda28b6d43b29e0b56c875f074d1"
-      textAlignment="1"
-      fillColor="#8080ff"
-      alpha="100">
-    <bounds
-        x="96"
-        y="192"
-        width="949"
-        height="301"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-891b8ff1485a49d8992c2b61d0b54b6c.xml#id-891b8ff1485a49d8992c2b61d0b54b6c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d99f643dbdc84f11ba16bae55d5080c4"
-      textAlignment="1"
-      fillColor="#804000"
-      alpha="100">
-    <bounds
-        x="96"
-        y="492"
-        width="949"
-        height="337"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-3f00462a20d449789e66dbb8b8ce4720.xml#id-3f00462a20d449789e66dbb8b8ce4720"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f1a45be154ee49e9a3949d0638feced5"
+      id="id-518026f05ae34e0d921af3914d2cdd7b"
       textAlignment="1"
       fillColor="#ffff80"
-      alpha="100">
+      alpha="30">
     <bounds
-        x="96"
-        y="828"
-        width="949"
-        height="349"/>
+        x="405"
+        y="423"
+        width="2737"
+        height="337"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-d4bdcd4dff314277ae4f01a6dc6ebfff.xml#id-d4bdcd4dff314277ae4f01a6dc6ebfff"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b45fba7ec9cf41aaba562980cfaf1f7a"
+      id="id-d42af5ba04ae443588287753645a3a1e"
       textAlignment="1"
       fillColor="#80ffff"
-      alpha="100">
+      alpha="30">
     <bounds
-        x="96"
-        y="1176"
-        width="948"
-        height="432"/>
+        x="405"
+        y="759"
+        width="2737"
+        height="649"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-a21a20ccbb4944c8b4f2876bb5397fea.xml#id-a21a20ccbb4944c8b4f2876bb5397fea"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-dc6e89aa7e0449d7a918d6a51f9e7225"
+      id="id-b79dca2f10624fc4a7758bf935ce2993"
+      lineWidth="2"
       textAlignment="1"
-      fillColor="#037c1f"
-      alpha="100">
+      fillColor="#00ff00"
+      alpha="30">
     <bounds
-        x="96"
-        y="1607"
-        width="948"
-        height="374"/>
+        x="405"
+        y="1407"
+        width="2737"
+        height="805"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-cbe620b824ea4afea2c056f8c8ed31e7.xml#id-cbe620b824ea4afea2c056f8c8ed31e7"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1f70186cb0fb4985ac9d28b849c341eb"
-      textAlignment="1"
-      fillColor="#ff80c0"
-      alpha="100">
-    <bounds
-        x="96"
-        y="1980"
-        width="948"
-        height="468"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-5275c736120e41caad3e2331c0a6d6a5.xml#id-5275c736120e41caad3e2331c0a6d6a5"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-76911d248d694aa8b3b3541ee298671c">
+      id="id-325c3e21d1de4c59b31d3e8f2b7a2632">
     <bounds
-        x="96"
-        y="24"
+        x="405"
+        y="192"
         width="121"
         height="37"/>
     <referencedModel
