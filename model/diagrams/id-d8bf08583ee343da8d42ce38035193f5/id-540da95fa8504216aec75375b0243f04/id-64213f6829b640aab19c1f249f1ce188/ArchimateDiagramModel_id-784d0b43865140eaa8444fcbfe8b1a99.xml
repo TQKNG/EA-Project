@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AB - Application Behavior View"
+    id="id-784d0b43865140eaa8444fcbfe8b1a99">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-b4ddc98bc82240acbc7a7df5e2633069">
+    <bounds
+        x="72"
+        y="96"
+        width="121"
+        height="37"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-2a438e46ff6b4fbfb4d8e6ab2f091736.xml#id-2a438e46ff6b4fbfb4d8e6ab2f091736"/>
+  </children>
+</archimate:ArchimateDiagramModel>

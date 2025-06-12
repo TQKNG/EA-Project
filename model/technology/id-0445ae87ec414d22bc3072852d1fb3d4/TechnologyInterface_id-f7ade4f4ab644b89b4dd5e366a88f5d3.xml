@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Endpoint"
+    id="id-f7ade4f4ab644b89b4dd5e366a88f5d3"
+    documentation="Azure Container Registry Endpoint"/>
