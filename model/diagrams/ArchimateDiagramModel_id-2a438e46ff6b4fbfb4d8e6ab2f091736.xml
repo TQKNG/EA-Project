@@ -110,7 +110,9 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-b05398917e92454ab7b0c641af0f3d0b">
+        id="id-b05398917e92454ab7b0c641af0f3d0b"
+        fillColor="#c0c0c0"
+        alpha="100">
       <bounds
           x="13"
           y="120"
