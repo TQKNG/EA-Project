@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Access to Content Must Be Segregated According to Branch Affiliation"
-    id="id-545276549095404c9672739b5fe21cda"
-    documentation="Content access should strictly respect branch boundaries for security and relevance."/>

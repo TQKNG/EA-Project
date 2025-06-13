@@ -8,12 +8,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-df5e4e8ab0764c4aa83969af54f063a7"
       font="1|Roboto Medium|18.0|0|WINDOWS|1|-24|0|0|0|500|0|0|0|0|3|2|1|2|Roboto Medium"
+      textAlignment="1"
       content="GlobalDWS Enterprise Architecture"
-      textPosition="1"
       borderType="2">
     <bounds
-        x="585"
-        y="359"
+        x="354"
+        y="371"
         width="493"
         height="109"/>
   </children>
@@ -21,14 +21,14 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-03e9ebd4ce664a349ffecd898013001c"
       font="1|Roboto|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|2|Roboto"
-      textPosition="1"
+      textAlignment="1"
       borderType="2">
     <features
         name="labelExpression"
         value="Version: ${property:Version}&#xD;&#xA;Prepared By: ${property:Prepared By}"/>
     <bounds
-        x="681"
-        y="431"
+        x="357"
+        y="408"
         width="301"
         height="61"/>
     <properties

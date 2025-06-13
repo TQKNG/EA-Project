@@ -1,5 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Privacy Regulations Restrict Sharing Sensitive Branch Data Across Branches"
-    id="id-9355c51c89ab44468ade71a9da317b1d"
-    documentation="Compliance with regulations (e.g., GDPR) limits cross-branch data visibility."/>
